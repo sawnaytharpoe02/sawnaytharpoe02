@@ -1,25 +1,22 @@
-<center>
-  ![Alt Text](https://media3.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif?cid=ecf05e47dthdxlcu6bayjnbc4cswg60rbw5jm4z6f88hfkhd&rid=giphy.gif)
-</center>
-
+<p align="center">
+<img src="https://media3.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif?cid=ecf05e47dthdxlcu6bayjnbc4cswg60rbw5jm4z6f88hfkhd&rid=giphy.gif" style="align=center"></img>
+</p>
 <h2 align="center"> Hey there! I'm Duralumin.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning React JS frontend framework.
-- 🎓 &nbsp; Studying Diploma in web & mobile app development at University of KBTC school of IT.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about MySQL, andriod components and architecture.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Diploma in web & mobile app development at University of KBTC - school of IT.
+- 💼 &nbsp; I'm currently working on ......
+- 🌱 &nbsp; Learning more about MySQL, andriod components and architecture..
 - 👨‍💻 &nbsp; All of my projects are available at https://github.com/duralumin02
-- ⚡ &nbsp; Friendly and enjoy coding
+- ⚡ &nbsp; Fun fact friendly & enjoy coding
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -27,7 +24,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Tailwindcss]
+  ![Tailwindcss](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -38,19 +35,23 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![WebStorm](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)
   
 - 🖥 &nbsp;
-  
-  ![Figma](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![AdobeXD](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
 
 <br/>
 
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duralumin02&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duralumin02&theme=buefy&layout=compact" />
+</a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/duralumin02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:sawnaytharhpoe02@gamil.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.facebook.com/duralumin02/profile.php?id=100029334823159"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Duralumin__-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.instagram.com/duralumin02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-duralumin02__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:sawnaytharhpoe02@gamil.com"><img alt="Email" src="https://img.shields.io/badge/Email-sawnaytharhpoe02@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
