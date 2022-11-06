@@ -1,7 +1,11 @@
 <p align="center">
 <img src="https://media3.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif?cid=ecf05e47dthdxlcu6bayjnbc4cswg60rbw5jm4z6f88hfkhd&rid=giphy.gif" style="align=center"></img>
 </p>
-<h2 align="center"> Hey there! I'm Duralumin.</h2>
+
+<h1 align="center">Hey there , I'm Duralumin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Coding+Hobbyist;KBTS,LAP%20alumnus;Detail%20Oriented%20Person;Newbie%20but%20tend%20to%20be%20Specialist;Attending%20NCC+L4DWM%20at%20KBTC;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -45,7 +49,7 @@
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duralumin02&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duralumin02&theme=buefy&layout=compact" />
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duralumin02&theme=buefy&layout=compact" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
