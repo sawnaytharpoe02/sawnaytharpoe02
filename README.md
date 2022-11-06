@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<iframe src="https://giphy.com/embed/nkLB4Gp8H6hFe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/personal-chris-hemsworth-cabin-in-the-woods-nkLB4Gp8H6hFe">via GIPHY</a></p>
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Duralumin.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
