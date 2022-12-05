@@ -10,9 +10,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning React JS frontend framework.
-- 🎓 &nbsp; Studying Diploma in web & mobile app development at University of KBTC - school of IT.
+- 🎓 &nbsp; Studying web & mobile app development .....
 - 💼 &nbsp; I'm currently working on ......
-- 🌱 &nbsp; Learning more about MySQL, andriod components and architecture..
+- 🌱 &nbsp; Learning more about MySQL, andriod components and architecture ...
 - 👨‍💻 &nbsp; All of my projects are available at https://github.com/duralumin02
 - ⚡ &nbsp; Fun fact friendly & enjoy coding
 
