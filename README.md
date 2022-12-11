@@ -58,5 +58,5 @@
   <a href="https://www.facebook.com/duralumin02/profile.php?id=100029334823159"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Duralumin__-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/duralumin02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-duralumin02__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sawnaytharhpoe02@gamil.com"><img alt="Email" src="https://img.shields.io/badge/Email-sawnaytharhpoe02@gmail.com-blue?style=flat-square&logo=gmail"></a>
- <a href="https://codepen.io/duralumin02"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-codepen.io/duralumin02-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://codepen.io/duralumin02"><img alt="Codepen" src="https://img.shields.io/badge/codepen-codepen.io/duralumin02-blue?style=flat-square&logo=gmail"></a>
 </p>
