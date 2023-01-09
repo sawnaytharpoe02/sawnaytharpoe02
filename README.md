@@ -49,8 +49,7 @@
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duralumin02&show_icons=true&theme=light#gh-light-mode-only" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=duralumin02" />
-<!--   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duralumin02&theme=buefy&layout=compact" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
