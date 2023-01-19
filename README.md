@@ -47,7 +47,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/duralumin02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duralumin02&show_icons=true&theme=light#gh-light-mode-only" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duralumin02&layout=compact" />
 </a>
