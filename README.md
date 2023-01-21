@@ -48,8 +48,8 @@
 <br/>
 
 <a href="https://github.com/duralumin02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duralumin02&show_icons=true&theme=light#gh-light-mode-only" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duralumin02&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duralumin02&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duralumin02&layout=compact&theme=dark#gh-dark-mode-only" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
