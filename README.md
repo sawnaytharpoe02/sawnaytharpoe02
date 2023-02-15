@@ -54,9 +54,11 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-  <a href="https://www.facebook.com/duralumin02/profile.php?id=100029334823159"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Duralumin__-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/duralumin02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-duralumin02__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:sawnaytharhpoe02@gamil.com"><img alt="Email" src="https://img.shields.io/badge/Email-sawnaytharhpoe02@gmail.com-blue?style=flat-square&logo=gmail"></a>
- <a href="https://codepen.io/duralumin02"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-codepen.io/duralumin02-blue?style=flat-square&logo=codepen"></a>
+<p>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />
 </p>
