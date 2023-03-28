@@ -9,12 +9,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and learning React JS frontend framework.
-- 🎓 &nbsp; Studying web & mobile app development .....
+- 🤔 &nbsp; Exploring new technologies and immersing myself in React.js to build complex and dynamic user interfaces with ease.
+- 🎓 &nbsp; Studying fullstack development .....
 - 💼 &nbsp; I'm currently working on ......
-- 🌱 &nbsp; Learning more about MySQL, andriod components and architecture ...
+- 🌱 &nbsp; Recently taken up Node.js to enhance my backend programming abilities ...
 - 👨‍💻 &nbsp; All of my projects are available at https://github.com/duralumin02 && https://codepen.io/duralumin02
-- ⚡ &nbsp; Fun fact friendly & enjoy coding
+- ⚡ &nbsp; Fun fact friendly & take pleasure in coding and have a strong affection for coffee
 
 #
 
