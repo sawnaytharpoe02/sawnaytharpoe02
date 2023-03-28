@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Coding+Hobbyist;KBTS,LAP%20alumnus;Detail%20Oriented%20Person;Newbie%20but%20tend%20to%20be%20Specialist;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and learning React JS frontend framework.
 - 🎓 &nbsp; Studying web & mobile app development .....
@@ -16,7 +16,9 @@
 - 👨‍💻 &nbsp; All of my projects are available at https://github.com/duralumin02 && https://codepen.io/duralumin02
 - ⚡ &nbsp; Fun fact friendly & enjoy coding
 
-<h3> 🧰 Languages and Tools </h3>
+#
+
+### 🧰 Languages and Tools 
 
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />         
 <!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
@@ -38,15 +40,16 @@
 <img align="left" alt="laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          
 <br />
+
+#
 
 <a href="https://github.com/duralumin02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duralumin02&show_icons=true&theme=dark#gh-dark-mode-only" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duralumin02&layout=compact&theme=dark#gh-dark-mode-only" />
 </a>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me 
 
 <p>
   <a href="https://www.linkedin.com/in/saw-nay-thar-poe-5a827b256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -55,3 +58,5 @@
   <a href="mailto:sawnaytharhpoe02@gmal.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://codepen.io/duralumin02"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
+
+#
