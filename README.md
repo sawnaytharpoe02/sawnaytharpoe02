@@ -44,14 +44,6 @@
 
 #
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="sawnaytharpoe's GitHub Stats" src="https://github-readme-stats-steel-nine.vercel.app/api?username=sawnaytharpoe02&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-<br>
-
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p>
@@ -61,5 +53,16 @@
   <a href="mailto:sawnaytharhpoe02@gmal.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://codepen.io/duralumin02"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
+<br>
 
 #
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="sawnaytharpoe's GitHub Stats" src="https://github-readme-stats-steel-nine.vercel.app/api?username=sawnaytharpoe02&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+
+
