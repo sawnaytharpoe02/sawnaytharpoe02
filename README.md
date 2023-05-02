@@ -10,13 +10,13 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm frontend web developer working in Myanmar 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🧑‍ Exploring new technologies and immersing myself in React.js to build complex and dynamic user interfaces with ease.
+- 👨‍💻 Exploring new technologies and immersing myself in React.js to build complex and dynamic user interfaces with ease.
 - 📝 Studying fullstack development
 - 💻 Recently taken up Node.js to enhance my backend programming abilities
 - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
-- 👯 We can connect to play some online games such as mobile legends ♟
+- 👯 We can connect to play some online games such as mobile legends 🎮
 - 💼 All of my projects are available at https://github.com/sawnaytharpoe02 && https://codepen.io/duralumin02
-- ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection for coffee
+- ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection for coffee ☕
 
 
 ### 🧰 Languages and Tools 
@@ -59,7 +59,7 @@
 #
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> GitHub Stats</summary>
 
   <img align="left" alt="sawnaytharpoe's GitHub Stats" src="https://github-readme-stats-steel-nine.vercel.app/api?username=sawnaytharpoe02&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
