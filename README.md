@@ -8,7 +8,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I work as a frontend web developer based in Myanmar 
+- 🏦 <span style="font-size: 20px">I work as a frontend web developer based in Myanmar</span> 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨‍💻 Exploring new technologies and immersing myself in React.js to build complex and dynamic user interfaces with ease.
 - 📝 Studying fullstack development
@@ -17,7 +17,6 @@
 - 👯 We can connect to play some online games such as mobile legends 🎮
 - 💼 All of my projects are available at https://github.com/sawnaytharpoe02 && https://codepen.io/duralumin02
 - ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection for coffee ☕
-
 
 ### 🧰 Languages and Tools 
 
