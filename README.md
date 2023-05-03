@@ -7,8 +7,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Coding+Hobbyist;KBTS,LAP%20alumnus;Detail%20Oriented%20Person;Newbie%20but%20tend%20to%20be%20Specialist;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-<img src="https://media3.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif?cid=ecf05e47dthdxlcu6bayjnbc4cswg60rbw5jm4z6f88hfkhd&rid=giphy.gif" align="right" width="340px" style="margin-left:30px"></img>
+<img src="https://media3.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif?cid=ecf05e47dthdxlcu6bayjnbc4cswg60rbw5jm4z6f88hfkhd&rid=giphy.gif" align="right" width="340px"></img>
 - 🏦 I work as a frontend web developer based in Myanmar
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨‍💻 Exploring new technologies and immersing myself in React.js to build complex and dynamic user interfaces with ease.
@@ -18,7 +20,6 @@
 - 👯 We can connect to play some online games such as mobile legends 🎮
 - 💼 All of my projects are available at https://github.com/sawnaytharpoe02 & https://codepen.io/duralumin02
 - ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection for coffee ☕
-
 
 
 ### 🧰 Languages and Tools 
