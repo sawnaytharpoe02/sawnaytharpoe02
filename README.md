@@ -8,7 +8,6 @@
 </p>
 
 
-
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <img src="https://media3.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif?cid=ecf05e47dthdxlcu6bayjnbc4cswg60rbw5jm4z6f88hfkhd&rid=giphy.gif" align="right" width="340px"></img>
 - 🏦 I work as a frontend web developer based in Myanmar
@@ -21,8 +20,7 @@
 - ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection <br> for coffee ☕
 
 
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25" /> Languages and Tools: 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25" />  Languages and Tools: 
 
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />         
 <!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
@@ -48,7 +46,8 @@
 
 #
 
-### 🤝🏻 &nbsp;Connect with Me 
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="20" />  Connect with Me 
 
 <p>
   <a href="https://www.linkedin.com/in/saw-nay-thar-poe-5a827b256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
