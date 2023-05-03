@@ -16,9 +16,8 @@
 - 👨‍💻 Exploring new technologies and immersing myself in React.js to build complex and dynamic user interfaces with ease.
 - 📝 Studying fullstack development
 - 💻 Recently taken up Node.js to enhance my backend programming abilities
-- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
 - 👯 We can connect to play some online games such as mobile legends 🎮
-- 💼 All of my projects are available at https://github.com/sawnaytharpoe02 & https://codepen.io/duralumin02
+- 💼 All of my projects are available at https://codepen.io/duralumin02
 - ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection for coffee ☕
 
 
