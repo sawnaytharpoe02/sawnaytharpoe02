@@ -21,7 +21,8 @@
 - ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection <br> for coffee ☕
 
 
-### 🧰 Languages and Tools 
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25" /> Languages and Tools: 
 
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />         
 <!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
