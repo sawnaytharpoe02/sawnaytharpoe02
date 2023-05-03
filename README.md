@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media3.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif?cid=ecf05e47dthdxlcu6bayjnbc4cswg60rbw5jm4z6f88hfkhd&rid=giphy.gif" style="align=center"></img>
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" style="align=center"></img>
 </p>
 
 <h1 align="center">Hey there , I'm Saw Nay Thar Poe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -8,6 +8,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+<img src="https://media3.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif?cid=ecf05e47dthdxlcu6bayjnbc4cswg60rbw5jm4z6f88hfkhd&rid=giphy.gif" align="right"></img>
 - 🏦 I work as a frontend web developer based in Myanmar
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨‍💻 Exploring new technologies and immersing myself in React.js to build complex and dynamic user interfaces with ease.
@@ -15,8 +16,10 @@
 - 💻 Recently taken up Node.js to enhance my backend programming abilities
 - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
 - 👯 We can connect to play some online games such as mobile legends 🎮
-- 💼 All of my projects are available at https://github.com/sawnaytharpoe02 && https://codepen.io/duralumin02
+- 💼 All of my projects are available at https://github.com/sawnaytharpoe02 & https://codepen.io/duralumin02
 - ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection for coffee ☕
+
+
 
 ### 🧰 Languages and Tools 
 
