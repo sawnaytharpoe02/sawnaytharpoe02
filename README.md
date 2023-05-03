@@ -47,7 +47,7 @@
 #
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="20" />  Connect with Me 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20" />  Connect with Me 
 
 <p>
   <a href="https://www.linkedin.com/in/saw-nay-thar-poe-5a827b256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
