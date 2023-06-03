@@ -122,8 +122,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sawnaytharpoe02&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sawnaytharpoe02&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sawnaytharpoe02&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div> -->
 
 
 
