@@ -16,7 +16,7 @@
 - 📝 Studying fullstack development
 - 💻 Recently taken up Node.js to enhance my backend programming <br> abilities
 - 👯 We can connect to play some online games such as mobile legends 🎮
-- 💼 All of my projects are available at https://codepen.io/duralumin02
+- 💼 My mini projects are available at https://codepen.io/duralumin02
 - ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection <br> for coffee ☕
 
 #
