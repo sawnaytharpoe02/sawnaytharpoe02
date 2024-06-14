@@ -16,7 +16,7 @@
 - 📝 Studying fullstack development
 - 💻 Recently taken up Next.js to build fullstack applications
 - 👯 We can connect to play some online games such as mobile legends 🎮
-- 💼 My mini projects are available at https://codepen.io/duralumin02
+- 💼 My projects are available at https://sawnaytharpoe.vercel.app
 - ⚡ Fun fact: friendly & take pleasure in coding and have a strong affection <br> for coffee ☕
 
 #
