@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Backend-focused Software Engineer</b> · Yangon, Myanmar<br/>
-  Distributed systems · Fintech & remittance · Event-driven microservices
+  Distributed systems · Remittance · Event-driven microservices
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ I've worked on high-stakes systems under tight deadlines and uncertainty, most r
 
 | Project | What it does | Highlights |
 |---|---|---|
-| **Remittance Platform** | Routes cross-border transactions to local payout channels (KBZ Bank, MytelPay) | NestJS microservices, event-driven (RabbitMQ, gRPC), webhook handling, audit logs, reliable error recovery |
+| **Remittance Platform** | Routes cross-border transactions to local payout channels | NestJS microservices, event-driven (RabbitMQ, gRPC), webhook handling, audit logs, reliable error recovery |
 | **Multi-tenant CRM** | Backend with a dedicated Tenant Gateway | Go, 100% data isolation across business units, FIFO/LIFO inventory with transactional PostgreSQL consistency |
 | **HR Management System** | Automated payroll engine | NestJS, decimal-precision deductions, attendance-linked leave workflows, JSONB audit trail |
 | **Hotel Review Microservice** | Review & rating service | NestJS, gRPC, RabbitMQ, ~70% faster responses via Redis caching and background aggregation |
