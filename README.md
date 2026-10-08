@@ -26,8 +26,8 @@ I've worked on high-stakes systems under tight deadlines and uncertainty, most r
 
 - 🏦 Software Developer at a **finance company**, working on a NestJS microservices remittance platform
 - 🔧 Building payment integrations, webhook/audit pipelines, and transaction monitoring tools
-- 🎓 Pursuing a **Diploma in Computing**: data structures & algorithms, computer networks, and computer systems
-- 📚 Exploring Go, domain-driven design, and cloud/infrastructure engineering
+- 🎓 Pursuing a **Diploma in Computing**: computer networks, and computer systems
+- 📚 Exploring Go, data structures & algorithms
 
 ## Tech Stack
 
@@ -96,7 +96,7 @@ I've worked on high-stakes systems under tight deadlines and uncertainty, most r
 ---
 
 <p align="center">
-  <i>Open to conversations about backend engineering, distributed systems, and fintech.</i>
+  <i>Open to conversations about backend engineering, distributed systems, and system design.</i>
 </p>
 
 
